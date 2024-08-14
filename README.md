@@ -1,6 +1,6 @@
 # Finding `foo` system property
 
-The goal of this repo is to test different environment variables to define system properties for a native graalVM exeuctable
+The goal of this repo is to test different environment variables to define system properties of a native graalVM executable at run time.
 
 ## Getting starteed
 
