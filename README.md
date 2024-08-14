@@ -2,7 +2,7 @@
 
 The goal of this repo is to test different environment variables to define system properties of a native graalVM executable at run time.
 
-## Getting starteed
+## Getting started
 
 ```bash
 git@github.com:Mcdostone/graalvm-demo.git
