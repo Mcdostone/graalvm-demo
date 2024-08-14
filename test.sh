@@ -15,3 +15,4 @@ target/demo $PROPERTY
 JAVA_TOOL_OPTIONS=$PROPERTY target/demo
 JAVA_OPTS=$PROPERTY target/demo
 _JAVA_OPTIONS=$PROPERTY target/demo
+JDK_JAVA_OPTIONS=$PROPERTY target/demo
