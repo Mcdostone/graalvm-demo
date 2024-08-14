@@ -12,4 +12,4 @@ cd graalvm-demp
 
 The `test.sh` file:
  - builds the native executable.
- - tries different ways to define system properties at run time.
+ - runs the program with differents well-known java environment variables.
