@@ -6,7 +6,7 @@ The goal of this repo is to test different environment variables to define syste
 
 ```bash
 git@github.com:Mcdostone/graalvm-demo.git
-cd graalvm-demp
+cd graalvm-demo
 ./test.sh
 ```
 
